@@ -11,6 +11,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=sqlite&logoColor=black)
+
+## 📂 Projects
+- *[Data Analysis Project](link-to-project)*: Utilized SQL for data extraction and analysis, along with visualizations in [tool/software used].
 
 <!---
 Vishalinidev/Vishalinidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
